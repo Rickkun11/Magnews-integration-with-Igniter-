@@ -66,10 +66,8 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_client.com
-
-Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
-
+rickkun - [instagram](https://www.instagram.com/muchamad.r.f)
+rickkun11 - [gmail](rickkun11@gmail.com) - email : rickkun11@gmail.com
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
