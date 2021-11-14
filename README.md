@@ -32,13 +32,10 @@
 
 <br>![This is an image](https://i.ibb.co/LZ3CvBk/Screenshot-22-1.png)
 
-<h3 align="center">project_title</h3>
+<h3 align="center">Magnews theme Free integrating By igniter</h3>
 
   <p align="center">
-    project_description
-    <br />
-    <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
-    <br />
+  Magnews is a free template for information websites that is minimalist and responsive, integrated with Igniter. the website becomes more functional
     <br />
     <a href="https://github.com/github_username/repo_name">View Demo</a>
     ·
@@ -228,5 +225,4 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 [linkedin-url]: https://linkedin.com/in/linkedin_username
 [product-screenshot]: images/screenshot.png
 
-Magnews theme Free integrating By igniter
 
