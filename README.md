@@ -67,7 +67,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 ## Contact
 
 rickkun - [instagram](https://www.instagram.com/muchamad.r.f)
-rickkun11 - [gmail](rickkun11@gmail.com) - email : rickkun11@gmail.com
+<br>rickkun11 - [gmail](rickkun11@gmail.com) - email : rickkun11@gmail.com
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
