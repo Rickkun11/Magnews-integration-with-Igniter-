@@ -29,9 +29,8 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/github_username/repo_name">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a>
+
+<br>![This is an image](https://i.ibb.co/LZ3CvBk/Screenshot-22-1.png)
 
 <h3 align="center">project_title</h3>
 
@@ -231,4 +230,3 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 
 Magnews theme Free integrating By igniter
 
-<br>![This is an image](https://i.ibb.co/LZ3CvBk/Screenshot-22-1.png)
