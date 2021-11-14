@@ -1,2 +1,2 @@
 Magnews theme Free integrating By igniter 
-![This is an image](https://i.ibb.co/Xk37Vf1/Screenshot-22.png)
+![This is an image](https://i.ibb.co/LZ3CvBk/Screenshot-22-1.png)
